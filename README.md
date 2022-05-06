@@ -1,2 +1,5 @@
-# week-3-
-first project with basic JavaScript 
+
+first project
+HTML, CSS and JavaScript 
+
+Basic web page all about recycling ♻ 
